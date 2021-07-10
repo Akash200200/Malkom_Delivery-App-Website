@@ -1,0 +1,1 @@
+mongodb+srv://akash20:akash20*@makomdeivery.oizas.mongodb.net/test
